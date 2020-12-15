@@ -1,6 +1,7 @@
 {
   "name": "react-node-boilerplate",
   "version": "1.0.0",
+  "type": "module",
   "description": "This is just the grass root level of knowledge gainer",
   "main": "index.js",
   "scripts": {
